@@ -1,0 +1,3 @@
+HIDROSED_V1_v15_integrado_imagen_cuenca_REVISADA_COMPILA_OK
+Verificación: python -m py_compile app.py OK
+Corrección: import re global + parseo robusto de radios de ajuste al drenaje.
